@@ -10,24 +10,14 @@
 	rel="stylesheet">
 
 <style>
-.footer {
-	position: fixed;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	background-color: black;
-	color: white;
-	height: 100px;
-	text-align: center;
-}
-</style>
+
 
 </head>
 
 <body>
 <nav role="navigation" class="navbar navbar-default">
 	<div class="">
-		<a href="http://www.javaguides.net" class="navbar-brand">Java Guides</a>
+		<a href="#" class="navbar-brand">Nacrosolutions</a>
 	</div>
 	<div class="navbar-collapse">
 		<ul class="nav navbar-nav">
