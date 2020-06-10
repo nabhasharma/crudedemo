@@ -34,14 +34,12 @@
 			<li class="active"><a href="/">Home</a></li>
 			<li><a href="/list-todos">Todos</a></li>
 		</ul>
-		<ul class="nav navbar-nav">
-			<li><a href="/logout">Logout</a></li>
-		</ul>
+		
 	</div>
 </nav>
 
 <div class="container">
-An exception occurred! Please contact Support!
+An exception occurred
 </div>
 <script src="webjars/jquery/1.9.1/jquery.min.js"></script>
 <script src="webjars/bootstrap/3.3.6/js/bootstrap.min.js"></script>
