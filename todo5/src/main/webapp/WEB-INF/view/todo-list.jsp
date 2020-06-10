@@ -1,3 +1,29 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+
+<html>
+
+<head>
+<title>Todo Management Application</title>
+<link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css"
+	rel="stylesheet">
+
+
+
+</head>
+
+<body>
+
+<nav role="navigation" class="navbar navbar-default">
+	<div class="hello">
+		<h1>Welcome to Todo </h1>
+
+		<a href="/todo/showFormForAdd">Add Todo</a>
+			<a href="/todo/listTodo">View Todos</a>
+
+	</div>
+</nav>
 
 <div id="content">
         <table class="table">
@@ -31,3 +57,5 @@
         </table>
 
     </div>
+        </body>
+        </html>
